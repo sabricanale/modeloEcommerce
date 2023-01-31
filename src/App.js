@@ -4,7 +4,7 @@ import Condiciones from "./Components/Condiciones";
 import Footer from "./Components/Footer";
 import ItemListContainer from "./Components/ItemListContainer";
 import NavBar from "./Components/NavBar"
-import Productos from "./Productos";
+import Productos from "./Components/Productos";
 
 function App() {
   return (
