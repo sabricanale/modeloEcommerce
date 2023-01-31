@@ -1,29 +1,49 @@
+*{
+  padding: 0;
+  margin: 0;
+}
 body{
-  background-color:rgb(250, 247, 235);
+  background-color:white;
 }
-nav{
+nav, p{
   font-family: "Josefin Sans";
 }
 
-p{
-  font-family: "Josefin Sans";
-}
-
-h1{
-  font-family: "Itim";
-}
-
-h2, h3, h3, h5{
+h1, h2, h3, h4, h5{
   font-family: "Noto Sans Symbols 2";
 }
 
-.fondoVerde{
-  background-color:rgb(0, 159, 108);
+.fondoLila{
+  background-color: #ccabd8;
 }
 
-.footer{
-  background-color: violet;
+footer{
+  background-color: #cec9d1;
 }
+
+.boton{
+  background-color: #00c2cb;
+  font-family: "Josefin Sans";
+}
+
+#datos{
+  margin-left: 10px;
+  align-items: center;
+  text-decoration: none;
+  color: black;
+  margin-top: 3px;
+}
+.infoFinal{
+  background-color:  #ccabd8;
+  padding: 10px;
+  text-align: center;
+  color: black;
+}
+.infoFinal2{
+  text-decoration: none;
+  color: #055b56 
+}
+
 
 @media (max-width: 992px) {
 

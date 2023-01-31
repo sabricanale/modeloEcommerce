@@ -6,9 +6,9 @@ const Carrousel = () => {
             <div id="carouselExampleCaptions" className="carousel slide">
                 <div className="carousel-inner">
                     <div className="carousel-item active">
-                        <img src="./Images/Carrousel.jpeg" className="d-block w-100" alt="Cirenne clothing" />
-                        <div className="carousel-caption d-none d-md-block">
-                            <a href="/"><button>SHOP NOW</button></a> 
+                        <img src="./Images/Banner.png" className="d-block w-100" alt="Cirenne clothing" />
+                        <div className="carousel-caption d-none d-md-block m-5">
+                            <a href="/"><button className="m-5 p-2">SHOP NOW</button></a> 
                         </div>
                     </div>
                 </div>
