@@ -33,7 +33,7 @@ const Footer = () => {
 
                 <div className="col">
                     <div className="d-flex justify-content-center">
-                        <a href="https://walink.co/af71f2"><img src={"./Images/LogoSinFondo.png"} alt={"Logo Cirenne"} width={250} /></a>
+                        <a href={"/"}><img src={"./Images/LogoSinFondo.png"} alt={"Logo Cirenne"} width={250} /></a>
                     </div>
                 </div>
 
